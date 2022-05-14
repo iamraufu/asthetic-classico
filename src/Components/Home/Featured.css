@@ -1,0 +1,30 @@
+.featured {
+    background-image: url(../../Folder/bg-dark.png);
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    padding: 40px 0;
+}
+
+.H1 {
+    padding-top: 60px;
+    line-height: 40px;
+    font-size: 60px;
+    text-align: center;
+    color: #fff;
+}
+
+.P {
+    margin-top: 0;
+    font-size: 24px;
+    line-height: 40px;
+    text-align: center;
+    color: white;
+}
+
+@media (max-width:1024px) {
+    .P {
+        font-size: 20px;
+    }
+}

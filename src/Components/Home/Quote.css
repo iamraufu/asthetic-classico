@@ -1,0 +1,13 @@
+.quote {
+    background-color: #E5E5E5;
+}
+
+.quote-bg {
+    background-image: url(../../Folder/q.png);
+    /* width: 100%;
+    background-position: center; */
+    background-repeat: no-repeat;
+    background-size: 60px;
+    position: relative;
+    margin: 40px 0;
+}
